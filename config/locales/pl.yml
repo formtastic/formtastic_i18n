@@ -1,6 +1,5 @@
 pl:
   formtastic:
-    actions:
-      update: "Aktualizuj %{model}"
-      create: "Utwórz %{model}"
+    :update: "Aktualizuj %{model}"
+    :create: "Utwórz %{model}"
 

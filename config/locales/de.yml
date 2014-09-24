@@ -1,10 +1,10 @@
 de:
   formtastic:
-    yes: "Ja"
-    no: "Nein"
-    create: "%{model} anlegen"
-    update: "%{model} aktualisieren"
-    submit: "Abschicken"
-    cancel: "Abbrechen"
-    reset: "%{model} zurücksetzen"
-    required: "Pflichtfeld"
+    :yes: "Ja"
+    :no: "Nein"
+    :create: "%{model} anlegen"
+    :update: "%{model} aktualisieren"
+    :submit: "Abschicken"
+    :cancel: "Abbrechen"
+    :reset: "%{model} zurücksetzen"
+    :required: "Pflichtfeld"
