@@ -1,6 +1,6 @@
-# FormtasticI18n
+# Formtastic I18n
 
-TODO: Write a gem description
+I18n translation for the formtastic gem
 
 ## Installation
 
@@ -14,17 +14,13 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install formtastic_i18n
-
 ## Usage
 
-TODO: Write usage instructions here
+Just include it in your Gemfile
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/formtastic_i18n/fork )
+1. Fork it ( https://github.com/timoschilling/formtastic_i18n/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
